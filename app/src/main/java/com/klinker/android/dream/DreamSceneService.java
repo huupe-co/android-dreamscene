@@ -40,7 +40,7 @@ public class DreamSceneService extends DreamService {
      * does not require a new install of the app
      */
     private static final String JSON_URL =
-            "https://raw.githubusercontent.com/klinker41/android-dreamscene/master/backgrounds.json";
+            "https://huupe-media.s3.amazonaws.com/mini/backgrounds.json";
 
     /**
      * Max time in milliseconds that a switch could occur
